@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556353482 source:g:\college\files\a4_p1_20170363_20170352_20170341\main.cpp
+	<iostream>
+	<algorithm>
+
+1556831549 source:g:\college\data structure\assignment 4\a4_p1_20170363_20170352_20170341\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<windows.h>
+
